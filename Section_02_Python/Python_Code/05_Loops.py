@@ -1,0 +1,11 @@
+my_list = [1, 2, 3, 4, 5]
+
+for i in my_list:
+    print(i)
+
+
+i = 1
+
+while i <= 5:
+    print(i)
+    i += 1

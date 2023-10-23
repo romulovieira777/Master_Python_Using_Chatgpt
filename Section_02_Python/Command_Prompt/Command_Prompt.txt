@@ -1,0 +1,14 @@
+Data Types
+data types that are available in python.
+
+Variables
+variables in python
+
+Lists
+lists in python
+
+Conditional Statements
+if else in python
+
+Loops
+loops in python
